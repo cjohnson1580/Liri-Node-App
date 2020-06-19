@@ -52,10 +52,9 @@
 
     Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.  
 
-    Screen Shot 2020-06-19 at 4.38.15 PM
-    Screen Shot 2020-06-19 at 4.38.53 PM
-    Screen Shot 2020-06-19 at 4.43.10 PM
-    Screen Shot 2020-06-19 at 4.44.43 PM
-
+    Screen Shot 2020-06-19 at 4.43.10 PM.pdf
+    Screen Shot 2020-06-19 at 4.44.43 PM.pdf
+    Screen Shot 2020-06-19 at 4.38.15 PM.pdf
+    Screen Shot 2020-06-19 at 4.38.53 PM.pdf
 
            
