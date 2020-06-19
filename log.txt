@@ -1,0 +1,216 @@
+
+---------------------------------------------------
+
+Date: 07/18/2020
+Name: [POSTPONED] Allianz Parque | São Paulo
+City: Sao Paulo
+Country: Brazil
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/19/2020
+Name: [POSTPONED] Allianz Parque | São Paulo
+City: Sao Paulo
+Country: Brazil
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/25/2020
+Name: [POSTPONED] Lover Fest West
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/26/2020
+Name: [POSTPONED] Lover Fest West
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/31/2020
+Name: [POSTPONED] Lover Fest East
+City: Foxborough
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/01/2020
+Name: [POSTPONED] Lover Fest East
+City: Foxborough
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+
+Keyword(s) used for search: top gun
+Title of the movie: Top Gun
+Year the movie came out: 1986
+IMDB Rating of the movie: 6.9
+Rotten Tomatoes Rating of the movie: 50
+Country where the movie was produced: USA
+Language of the movie: English
+Plot of the movie: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+Actors in the movie: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+Keyword(s) used for search: anchorman
+Title of the movie: Anchorman
+Year the movie came out: 2009
+IMDB Rating of the movie: 5.8
+Rotten Tomatoes Rating of the movie: N/A
+Country where the movie was produced: Italy
+Language of the movie: N/A
+Plot of the movie: N/A
+Actors in the movie: Marco Di Francisca
+
+
+Keyword(s) used for search: taylor swift
+Venue: [POSTPONED] Allianz Parque | São Paulo
+Location: Sao Paulo, 
+Date: 06/19/2020
+
+Venue: [POSTPONED] Allianz Parque | São Paulo
+Location: Sao Paulo, 
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest West
+Location: Los Angeles, CA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest West
+Location: Los Angeles, CA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest East
+Location: Foxborough, MA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest East
+Location: Foxborough, MA
+Date: 06/19/2020
+
+
+
+Keyword(s) used for search: taylor swift
+Venue: [POSTPONED] Allianz Parque | São Paulo
+Location: Sao Paulo, 
+Date: 06/19/2020
+
+Venue: [POSTPONED] Allianz Parque | São Paulo
+Location: Sao Paulo, 
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest West
+Location: Los Angeles, CA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest East
+Location: Foxborough, MA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest West
+Location: Los Angeles, CA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest East
+Location: Foxborough, MA
+Date: 06/19/2020
+
+
+Keyword(s) used for search: once upon a time in hollywood
+Title of the movie: Once Upon a Time in Hollywood
+Year the movie came out: 2016
+IMDB Rating of the movie: N/A
+Rotten Tomatoes Rating of the movie: N/A
+Country where the movie was produced: USA
+Language of the movie: N/A
+Plot of the movie: N/A
+Actors in the movie: N/A
+
+Keyword(s) used for search: 1917
+Title of the movie: 1917
+Year the movie came out: 2019
+IMDB Rating of the movie: 8.3
+Rotten Tomatoes Rating of the movie: 78
+Country where the movie was produced: USA, UK, India, Spain, Canada
+Language of the movie: English, French, German
+Plot of the movie: April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.
+Actors in the movie: Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth
+
+
+Keyword(s) used for search: taylor swift
+Venue: [POSTPONED] Allianz Parque | São Paulo
+Location: Sao Paulo, 
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest West
+Location: Los Angeles, CA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Allianz Parque | São Paulo
+Location: Sao Paulo, 
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest West
+Location: Los Angeles, CA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest East
+Location: Foxborough, MA
+Date: 06/19/2020
+
+
+
+Keyword(s) used for search: taylor swift
+Venue: [POSTPONED] Allianz Parque | São Paulo
+Location: Sao Paulo, 
+Date: 06/19/2020
+
+Venue: [POSTPONED] Allianz Parque | São Paulo
+Location: Sao Paulo, 
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest East
+Location: Foxborough, MA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest West
+Location: Los Angeles, CA
+Date: 06/19/2020
+
+Venue: [POSTPONED] Lover Fest West
+Location: Los Angeles, CA
+Date: 06/19/2020
+
+
+Keyword(s) used for search: 1917
+Title of the movie: 1917
+Year the movie came out: 2019
+IMDB Rating of the movie: 8.3
+Rotten Tomatoes Rating of the movie: 78
+Country where the movie was produced: USA, UK, India, Spain, Canada
+Language of the movie: English, French, German
+Plot of the movie: April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.
+Actors in the movie: Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth
