@@ -31,7 +31,7 @@
 
         The album that the song is from
 
-    If no song is provided then your program will default to "The Sign" by Ace of Base.
+    If no song is provided then your program will default to "I Want it That Way" by Backstreet Boys.
 
 **node liri.js movie-this '<movie name here>'**
 
