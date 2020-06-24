@@ -53,13 +53,9 @@
     Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.  
     
     
-    https://vuvirtfsfpt03-9e34127.slack.com/files/U0104P73998/F015RN6TRRQ/img_2517.jpg
+   
     
-    https://vuvirtfsfpt03-9e34127.slack.com/files/U0104P73998/F015B0CG0KH/img_2518.jpg
     
-    https://vuvirtfsfpt03-9e34127.slack.com/files/U0104P73998/F015TKF46VC/image_from_ios.jpg
-    
-    https://vuvirtfsfpt03-9e34127.slack.com/files/U0104P73998/F015KK58T47/image_from_ios.jpg
     
     
     
