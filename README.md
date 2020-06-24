@@ -51,10 +51,23 @@
 **node liri.js do-what-it-says**
 
     Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.  
+    
+    
+    https://vuvirtfsfpt03-9e34127.slack.com/files/U0104P73998/F015RN6TRRQ/img_2517.jpg
+    
+    https://vuvirtfsfpt03-9e34127.slack.com/files/U0104P73998/F015B0CG0KH/img_2518.jpg
+    
+    https://vuvirtfsfpt03-9e34127.slack.com/files/U0104P73998/F015TKF46VC/image_from_ios.jpg
+    
+    https://vuvirtfsfpt03-9e34127.slack.com/files/U0104P73998/F015KK58T47/image_from_ios.jpg
+    
+    
+    
+    
 
     
     
-    Screen Shot 2020-06-19 at 4.38.15 PM.pdf.zip
-    Screen Shot 2020-06-19 at 4.38.53 PM.pdf.zip
-    Screen Shot 2020-06-19 at 4.44.43 PM.pdf.zip
-    Screen Shot 2020-06-19 at 4.43.10 PM.pdf.zip
+    
+    
+    
+   
